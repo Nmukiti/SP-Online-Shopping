@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858701738534",
+    "project_id": "spshopping-df6bd",
+    "firebase_url": "https://spshopping-df6bd-default-rtdb.firebaseio.com",
+    "storage_bucket": "spshopping-df6bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858701738534:android:6b8fb5d9a95b1d2088ece7",
+        "android_client_info": {
+          "package_name": "com.example.spshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858701738534-848b2t71e40ehdroui76p9e74dllf1oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spshopping",
+            "certificate_hash": "097359ecc399441c479a9a48c2889babf79365a8"
+          }
+        },
+        {
+          "client_id": "858701738534-at5ftq86o94058ln44n3ampq62hhh399.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGyOX6-6b0wZGq37Y2i0xX77XX7hV-so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858701738534-at5ftq86o94058ln44n3ampq62hhh399.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
